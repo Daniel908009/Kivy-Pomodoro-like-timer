@@ -29,5 +29,5 @@ Now open a console and enter the folowing code: pip install -r /path/to/requirem
 *Replace the /path/to/requirements.txt with the actual path. <br>
 Enjoy! <br>
 <h2>Using Pypi</h2>
-simply open your command prompt and enter this command: pip install Kivy_Work_Timer_package <br>
-then you can run it with this command:  python3 -m Kivy_Work_Timer_package.main
+simply open your command prompt and enter this command: pip install Kivy-Work-Timer-package <br>
+then you can run it with this command: Kivy_Work_Timer_package
